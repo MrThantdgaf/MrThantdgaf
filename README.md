@@ -18,7 +18,7 @@ I’m a passionate developer who loves building software and tools that solve re
 - 🎓 Completed **Higher National Diploma (HND)** in Computing  
   (Awarded by Pearson UK, delivered through Info Myanmar College)
   
-- 📘 Currently pursuing **BSc (Hons) in Computing**  
+- 📘 Currently pursuing **BSc in Computing**  
   (Edinburgh Napier University, UK)
 
 ---
