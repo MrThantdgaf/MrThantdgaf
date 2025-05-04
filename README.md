@@ -49,3 +49,5 @@ A Telegram Bot that helps users generate professional PDF resumes in minutes —
 Feel free to explore my repos, contribute, or reach out if you're interested in collaborating.  
 I’m always excited to work on meaningful tech and meet other curious minds in the developer community.
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/thant-lwin-maung-022288297/)
+
