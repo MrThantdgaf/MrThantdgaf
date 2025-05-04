@@ -1,16 +1,51 @@
-## Hi there 👋
+# 👋 Hello there! Welcome to my GitHub
 
-<!--
-**MrThantdgaf/MrThantdgaf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a passionate developer who loves building software and tools that solve real-world problems, improve user experience, and push the boundaries of technology. Whether it's automating workflows, creating intelligent bots, or launching web apps — I enjoy turning ideas into working products.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 What I Do
+
+- Build **full-stack applications** with a strong focus on backend development
+- Create **automation tools** and **Telegram bots** to simplify everyday tasks
+- Explore topics like **data privacy**, **developer experience**, and **clean architecture**
+- Open-source contributor & lifelong learner
+
+---
+
+## 🎓 Academic Background
+
+- 🎓 Completed **Higher National Diploma (HND)** in Computing  
+  (Awarded by Pearson UK, delivered through Info Myanmar College)
+  
+- 📘 Currently pursuing **BSc (Hons) in Computing**  
+  (Edinburgh Napier University, UK)
+
+---
+
+## 🚀 What Drives Me
+
+I believe in **learning by building**. My projects are not just for practice — they are experiments, solutions, and often stepping stones toward something bigger. I enjoy collaborating with other developers and am always open to ideas that challenge my skills or perspective.
+
+---
+
+## 🛠️ Tech & Tools I Love Working With
+
+- **Languages:** Python, JavaScript (React), SQL  
+- **Frameworks & Tools:** Flask, FastAPI, Node.js, PostgreSQL, Git  
+- **Platforms:** Telegram Bots, Render, GitHub Actions, Cloud APIs
+
+---
+
+## 📌 Featured Project
+
+### ✨ [Resume Genie](https://github.com/MrThantdgaf/resumegenie)
+A Telegram Bot that helps users generate professional PDF resumes in minutes — with strong emphasis on user privacy and simplicity.
+
+---
+
+## 📫 Let’s Connect
+
+Feel free to explore my repos, contribute, or reach out if you're interested in collaborating.  
+I’m always excited to work on meaningful tech and meet other curious minds in the developer community.
+
