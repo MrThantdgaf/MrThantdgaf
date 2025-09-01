@@ -44,7 +44,7 @@ Check out more projects on my portfolio:
 
 - 🌐 Website: [thantlwinmaung.tech](https://thantlwinmaung.tech)  
 - ✉️ Email: [thantlwinmaungofficial@gmail.com](mailto:thantlwinmaungofficial@gmail.com)  
-- 🔗 LinkedIn: [linkedin.com/in/thantlwinmaung](https://www.linkedin.com/in/thant-lwin-maung-022288297)  
+- 🔗 LinkedIn: [linkedin.com/in/thant-lwin-maung-022288297](https://www.linkedin.com/in/thant-lwin-maung-022288297)  
 
 ---
 
