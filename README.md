@@ -1,8 +1,6 @@
-# Hi 👋, I'm Thant Lwin Maung
+# 👋 Hello there! Welcome to my GitHub
 
-![Portfolio Preview](https://thantlwinmaung.tech/img/og-preview.png)
-
-I'm a passionate developer who loves turning ideas into real-world software solutions. I focus on building tools, web apps, and intelligent bots that improve user experience and solve everyday problems.
+I’m a passionate developer who loves building software and tools that solve real-world problems, improve user experience, and push the boundaries of technology. Whether it's automating workflows, creating intelligent bots, or launching web apps — I enjoy turning ideas into working products.
 
 ---
 
@@ -26,7 +24,7 @@ I'm a passionate developer who loves turning ideas into real-world software solu
 | **Backend**      | Node.js, PHP |
 | **Databases**    | SQL, NoSQL |
 | **Platforms**    | Telegram Bots, Web Apps |
-| **Other Tools**  | Git, GitHub, VS Code |
+| **Other Tools**  | Git, GitHub, VS Code, Intellij|
 
 ---
 
