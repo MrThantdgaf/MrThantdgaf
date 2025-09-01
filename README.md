@@ -48,4 +48,4 @@ Check out more projects on my portfolio:
 
 ---
 
-*"Code is like humor. When you have to explain it, it’s bad." – Cory House*
+*Designed & Built with ❤️ and 🍵 *
