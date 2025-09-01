@@ -44,6 +44,12 @@ A Telegram Bot that helps users generate professional PDF resumes in minutes —
 
 ---
 
+## 🌐 Portfolio Preview  
+
+[![Portfolio Preview](https://api.microlink.io/?url=https://thantlwinmaung.tech&screenshot=true&meta=false)](https://thantlwinmaung.tech)  
+
+---
+
 ## 📫 Let’s Connect
 
 🌐 **Portfolio:** [thantlwinmaung.tech](https://thantlwinmaung.tech)  
