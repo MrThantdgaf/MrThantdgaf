@@ -48,4 +48,4 @@ Check out more projects on my portfolio:
 
 ---
 
-*Designed & Built with ❤️ and 🍵 *
+*Designed & Built with ❤️ and 🍵*
