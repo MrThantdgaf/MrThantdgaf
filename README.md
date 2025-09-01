@@ -14,10 +14,16 @@ I'm a passionate developer who loves turning ideas into real-world software solu
 ---
 
 ## 🛠️ Skills
-- **Languages:** JavaScript, Python, HTML, CSS  
-- **Frameworks & Libraries:** React, Node.js, Express, Flask  
-- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Docker  
-- **Other:** REST APIs, Web Scraping, Automation Bots, AI Integration  
+
+### **Languages & Frameworks**
+- HTML5, CSS3, JavaScript, PHP, C++, Java, Python  
+- Bootstrap, Tailwind  
+
+### **Databases & Platforms**
+- SQL / NoSQL Databases  
+
+### **Technologies & Interests**
+- IoT, AI / ML  
 
 ---
 
