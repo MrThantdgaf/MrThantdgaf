@@ -1,29 +1,44 @@
-# 👋 Hey, I’m Thant Lwin Maung
+# Hi, I'm Thant Lwin Maung 👋
 
-[![Portfolio](https://thantlwinmaung.tech/img/og-preview.png)](https://thantlwinmaung.tech)
+![Portfolio Preview](https://thantlwinmaung.tech/img/og-preview.png)
 
----
-
-## 👨‍💻 What I Do
-- Full-stack development (Python, JS/React)  
-- Automation & Telegram bots  
-- Backend systems & clean architecture  
+I'm a passionate developer who loves turning ideas into real-world software solutions. I focus on building tools, web apps, and intelligent bots that improve user experience and solve everyday problems.
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, SQL  
-**Frameworks:** Flask, FastAPI, Node.js  
-**DB & Tools:** PostgreSQL, Git, GitHub Actions  
+## 🔹 About Me
+- 🚀 Developer | Problem Solver | Tech Enthusiast  
+- 🌐 Explore my work: [thantlwinmaung.tech](https://thantlwinmaung.tech)  
+- 💡 Passionate about automation, web development, and AI-powered tools  
 
 ---
 
-## 📌 Featured Project
-### [Resume Genie](https://github.com/MrThantdgaf/resumegenie)  
-Generate professional PDF resumes via Telegram — simple & private.  
+## 🛠️ Skills
+- **Languages:** JavaScript, Python, HTML, CSS  
+- **Frameworks & Libraries:** React, Node.js, Express, Flask  
+- **Tools & Platforms:** Git, GitHub, VS Code, Figma, Docker  
+- **Other:** REST APIs, Web Scraping, Automation Bots, AI Integration  
 
 ---
 
-## 📫 Connect
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Site-orange?logo=firefox)](https://thantlwinmaung.tech)  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/thant-lwin-maung-022288297/)
+## 💻 Projects
+Here are a few projects I’ve worked on:  
+
+- **Resume Genie – Telegram Bot**  
+  Create resumes in a snap with this AI-powered bot.  
+  - [GitHub Repo](https://github.com/MrThantdgaf/resumegenie)  
+  - [Try the Bot](https://t.me/buildmyresumebot)  
+
+Check out more projects on my portfolio:  
+[Explore More Projects](https://thantlwinmaung.tech#projects)  
+
+---
+
+## 📫 Contact Me
+- 🌐 Website: [thantlwinmaung.tech](https://thantlwinmaung.tech)  
+- ✉️ Email: [thantlwinmaungofficial@gmail.com](mailto:thantlwinmaungofficial@gmail.com)  
+- 🔗 LinkedIn: [linkedin.com/in/thantlwinmaung](https://www.linkedin.com/in/thant-lwin-maung-022288297)  
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
