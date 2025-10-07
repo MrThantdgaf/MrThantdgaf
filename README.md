@@ -9,7 +9,7 @@
 
 <h3 align="center">🌐 My Website</h3>
 <p align="center">
-<a href="https://thantlwinmaung.tech" target="_blank"><b>ThantLwinMaung.tech</b></a><br>
+<a href="https://thantlwinmaung.tech" target="_blank"><b>ThantLwinMaung.tech</b></a><br><br>
 <a href="https://app.netlify.com/sites/guileless-lily-0c4534/deploys">
 <img src="https://api.netlify.com/api/v1/badges/6d0c4539-a808-4f2c-988f-c57c3c9fe4ab/deploy-status" alt="Netlify Status">
 </a>
