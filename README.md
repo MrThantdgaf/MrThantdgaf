@@ -31,6 +31,7 @@
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrThantdgaf&theme=tokyonight&hide_border=true&background=0D1117" width="95%">
 <br><br>
+<img src="https://raw.githubusercontent.com/MrThantdgaf/MrThantdgaf/output/github-contribution-grid-snake.svg" alt="snake">
 <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrThantdgaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%">
 
 </td>
