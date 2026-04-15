@@ -27,11 +27,11 @@
 <td width="50%" valign="top" align="center">
 
 <h3>📊 GitHub Analytics</h3>
-<img src="https://github-readme-stats.vercel.app/api?username=MrThantdgaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrThantdgaf&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%">
 <br><br>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=MrThantdgaf&theme=tokyonight&hide_border=true&background=0D1117" width="95%">
 <br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MrThantdgaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%">
+<img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrThantdgaf&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="95%">
 
 </td>
 </tr>
