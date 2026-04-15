@@ -23,6 +23,23 @@
 <li>🌍 Based on the web — wherever good code takes me!</li>
 </ul>
 
+<h3>📫 Connect with Me</h3>
+<div align="center">
+
+<a href="https://thantlwinmaung.tech" target="_blank">
+<img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/>
+</a>
+
+<a href="mailto:thantlwinmaungofficial@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+</a>
+
+<a href="https://www.linkedin.com/in/thant-lwin-maung-022288297" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+
+</div>
+
 </td>
 <td width="50%" valign="top" align="center">
 
@@ -78,16 +95,6 @@
 
 Check out more on my portfolio:
 🔗 [Explore More Projects](https://thantlwinmaung.tech#projects)
-
----
-
-### 📫 Connect with Me
-
-<div align="center">
-
-<a href="https://thantlwinmaung.tech" target="_blank"><img src="https://img.shields.io/badge/Website-00C7B7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website"/></a> <a href="mailto:thantlwinmaungofficial@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/thant-lwin-maung-022288297" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-
-</div>
 
 ---
 
