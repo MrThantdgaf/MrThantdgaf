@@ -20,6 +20,49 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
             dist/github-snake-light.svg?palette=github
 
+      - name: Show current year only
+        shell: bash
+        run: |
+          node <<'NODE'
+          const fs = require('fs');
+
+          const dayMs = 24 * 60 * 60 * 1000;
+          const today = new Date();
+          const end = Date.UTC(today.getUTCFullYear(), today.getUTCMonth(), today.getUTCDate());
+          const from = new Date(end);
+          from.setUTCFullYear(from.getUTCFullYear() - 1);
+
+          const calendarStart = new Date(Date.UTC(from.getUTCFullYear(), from.getUTCMonth(), from.getUTCDate()));
+          calendarStart.setUTCDate(calendarStart.getUTCDate() - calendarStart.getUTCDay());
+
+          const yearStart = new Date(Date.UTC(today.getUTCFullYear(), 0, 1));
+          const firstVisibleWeek = new Date(yearStart);
+          firstVisibleWeek.setUTCDate(firstVisibleWeek.getUTCDate() - firstVisibleWeek.getUTCDay());
+
+          const weekOffset = Math.max(0, Math.floor((firstVisibleWeek - calendarStart) / (7 * dayMs)));
+          const minX = weekOffset * 16 - 16;
+          const rightX = 864;
+          const width = rightX - minX;
+          const firstWeekCellX = weekOffset * 16 + 2;
+          const firstCurrentYearWeekday = yearStart.getUTCDay();
+
+          for (const file of ['dist/github-snake-dark.svg', 'dist/github-snake-light.svg']) {
+            let svg = fs.readFileSync(file, 'utf8');
+
+            svg = svg
+              .replace(/viewBox="-16 -32 880 192"/, `viewBox="${minX} -32 ${width} 192"`)
+              .replace(/width="880"/, `width="${width}"`);
+
+            for (let weekday = 0; weekday < firstCurrentYearWeekday; weekday++) {
+              const y = weekday * 16 + 2;
+              const cell = new RegExp(`(<rect class="c[^"]*" x="${firstWeekCellX}" y="${y}"[^>]*)(/>)`, 'g');
+              svg = svg.replace(cell, '$1 style="display:none"$2');
+            }
+
+            fs.writeFileSync(file, svg);
+          }
+          NODE
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
