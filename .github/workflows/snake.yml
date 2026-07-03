@@ -23,6 +23,7 @@ jobs:
       - name: Show current year only
         shell: bash
         run: |
+          sudo chown -R "$(id -u):$(id -g)" dist
           node <<'NODE'
           const fs = require('fs');
 
