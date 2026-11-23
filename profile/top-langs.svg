@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="470" height="168" viewBox="0 0 470 168">
+    <rect width="470" height="168" fill="#0d1117" rx="8"/>
+    <text x="24" y="28" fill="#c9d1d9" font-family="system-ui,sans-serif" font-size="16" font-weight="700">Most Used Languages</text>
+    <g transform="translate(24,28)">
+        <text x="0" y="16" fill="#c9d1d9" font-family="system-ui,sans-serif" font-size="12">JavaScript</text>
+        <text x="144" y="16" text-anchor="end" fill="#8b949e" font-family="system-ui,sans-serif" font-size="11">50.7%</text>
+        <rect x="152" y="4" width="146.89226688658323" height="18" fill="#f1e05a" rx="4"/>
+      </g><g transform="translate(24,62)">
+        <text x="0" y="16" fill="#c9d1d9" font-family="system-ui,sans-serif" font-size="12">Python</text>
+        <text x="144" y="16" text-anchor="end" fill="#8b949e" font-family="system-ui,sans-serif" font-size="11">25.7%</text>
+        <rect x="152" y="4" width="74.5320457812796" height="18" fill="#3572A5" rx="4"/>
+      </g><g transform="translate(24,96)">
+        <text x="0" y="16" fill="#c9d1d9" font-family="system-ui,sans-serif" font-size="12">CSS</text>
+        <text x="144" y="16" text-anchor="end" fill="#8b949e" font-family="system-ui,sans-serif" font-size="11">18.7%</text>
+        <rect x="152" y="4" width="54.22936331925421" height="18" fill="#563d7c" rx="4"/>
+      </g><g transform="translate(24,130)">
+        <text x="0" y="16" fill="#c9d1d9" font-family="system-ui,sans-serif" font-size="12">HTML</text>
+        <text x="144" y="16" text-anchor="end" fill="#8b949e" font-family="system-ui,sans-serif" font-size="11">4.9%</text>
+        <rect x="152" y="4" width="25" height="18" fill="#e34c26" rx="4"/>
+      </g>
+  </svg>
